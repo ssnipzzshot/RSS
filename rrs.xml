@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recetas de cocina</title>
+    <link>https://tusitio.com/recetas</link>
+    <description>Recetas de cocina</description>
+    <language>es</language>
+    <atom:link href="https://tusitio.com/practica2html.html" rel="self" type="rrs/rss+xml" />
+
+    <item>
+      <title>Pollo al limón</title>
+      <link>https://tusitio.com/rec/pollo-al-limon.html</link>
+      <pubDate>Wed, 14 Feb 2023 00:00:00 GMT</pubDate>
+      <description>Para preparar esta receta los ingredientes son...</description>
+      <enclosure url="https://tusitio.com/img/pollo-al-limon.jpg" type="image/jpeg" length="100" />
+      <guid isPermaLink="true">https://tusitio.com/rec/pollo-al-limon.html</guid>
+    </item>
+    
+    <item>
+      <title>Albondigas con tomate</title>
+      <link>https://tusitio.com/rec/albondigas.html</link>
+      <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
+      <description>Los ingredientes necesarios para esta receta son...</description>
+      <enclosure url="https://tusitio.com/img/albondigas.jpg" type="image/jpeg"  length="100"/>
+      <guid isPermaLink="true">https://tusitio.com/rec/albondigas.html</guid>
+    </item>
+    
+    <item>
+      <title>Paella valenciana</title>
+      <link>https://tusitio.com/rec/paella.html</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 GMT</pubDate>
+      <description>Esta receta empieza...</description>
+      <enclosure url="https://tusitio.com/img/paella.jpg" type="image/jpeg"  length="100"/>
+      <guid isPermaLink="true">https://tusitio.com/rec/paella.html</guid>
+    </item>
+    
+  </channel>
+</rss>
